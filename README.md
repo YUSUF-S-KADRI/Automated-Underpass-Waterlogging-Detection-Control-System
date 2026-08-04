@@ -1,0 +1,2 @@
+# Automated-Underpass-Waterlogging-Detection-Control-System
+A Smart system that detects rainfall, monitors water level, removes drainage blockages using a conveyor mechanism, and automatically pumps out accumulated water. It give's real-time safety indications by an LCD, LEDs, and a buzzer, while a servo-operated barricade restricts vehicle entry during dangerous conditions, enhancing road safety.
