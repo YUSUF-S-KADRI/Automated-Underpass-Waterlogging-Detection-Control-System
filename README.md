@@ -49,7 +49,7 @@ Below is the physical hardware setup, 3D renders, and circuit assembly for this 
 ![Circuit Diagram](./Circuit.png)
 
 ### 🛠️ Hardware Implementation Setup
-![Hardware Setup](./Practical%20Implementation%20a...)
+![Hardware Setup](./Practical_Implementation_and_Blynk_Interface.jpg)(./Practical%20Implementation%20a...)
 
 ---
 
